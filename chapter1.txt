@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was the age of fun, it was the age of foolishness.
+=======
+It was the best of space, it was the worst of space.
+>>>>>>> alien-plot
